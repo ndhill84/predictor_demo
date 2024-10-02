@@ -1,5 +1,5 @@
 # predictor_demo
-Super basic stock price predictor using Phophet and Streamlit
+Super basic stock price predictor using Meta's Prophet and Streamlit
 
 ### Create and Activate your virtual environment
 
